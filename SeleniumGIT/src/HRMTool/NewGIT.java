@@ -8,6 +8,8 @@ public class NewGIT {
 		int a = 10;
 		int b = 12;
 		System.out.println(a+b);
+		
+		System.err.println(a-b);
 	}
 
 }
